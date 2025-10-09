@@ -27,7 +27,7 @@ Mi objetivo es crecer paso a paso como desarrollador y aplicar lo que aprendo en
 
 # GitHub Stats
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thepimen&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thepimen&theme=dracula)](https://git.io/streak-stats) 
 
 
 
