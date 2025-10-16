@@ -24,13 +24,6 @@ Mi objetivo es crecer paso a paso como desarrollador y aplicar lo que aprendo en
 
 📌 En este GitHub voy a ir subiendo mis mini-proyectos y ejercicios que reflejan mi aprendizaje y mi camino hacia ser un desarrollador fullstack.
 
-
-# GitHub Stats
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thepimen&theme=dracula)](https://git.io/streak-stats) 
-
-
-
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Thepimen/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
