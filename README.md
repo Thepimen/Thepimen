@@ -7,7 +7,7 @@ I build production-grade software with an emphasis on concurrency, low-latency d
 [![Portfolio](https://img.shields.io/badge/Portfolio-luislazaro--dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://luislazaro-dev.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Lázaro_Pimentel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-lázaro-pimentel-143a51139/)
 [![Email](https://img.shields.io/badge/Email-luislazaropimentel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luislazaropimentel@gmail.com)
-[![X](https://img.shields.io/badge/X-@Thepimen__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Thepimen_)
+
 
 ---
 
